@@ -1,5 +1,4 @@
-<p align="center"><img width="344" alt="Screenshot 2023-08-23 at 13 30 26" src="https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/ab3bf255-2df1-40ea-99e1-fafa9f9f7ab1">
-</p>
+<p align="center"><img width="344" alt="Screenshot 2023-08-23 at 13 30 26" src="https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/daf2d322-9368-4cb5-ac85-81d074e1d4a0"></p>
 
 ## Introduction
 
@@ -80,43 +79,43 @@ npm run start
 ## :camera: Screenshots
 
 ### Main Page
-![Screenshot 2023-08-25 at 14 15 23_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/3f66f9a7-47a2-4990-8d69-7aae81a885ef)
+![Screenshot 2023-08-25 at 14 15 23_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/04495926-fd42-4cfb-a87d-7d551d150f34)
 
 
 ### Newsletters List
-![Screenshot 2023-08-25 at 14 15 40_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/2291c08d-bc02-43bb-ba92-67b0ce76643e)
+![Screenshot 2023-08-25 at 14 15 40_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/41d62e1e-5299-43f8-bf5d-9a6838e198aa)
 
 
 ### Newsletter View
-![Screenshot 2023-08-25 at 14 18 06_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/20c54f54-86f7-41d8-a7f0-b4c11886df16)
+![Screenshot 2023-08-25 at 14 18 06_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/b800ab00-42fb-4251-bd3e-cfc8673770cb)
 
 
 ### Employee Login Page
-![Screenshot 2023-08-25 at 14 16 20_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/9b36bc43-b004-4db8-a90b-c54fb7883048)
+![Screenshot 2023-08-25 at 14 16 20_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/87fe5437-e6ea-44f1-8675-a2fe9101e69f)
 
 
 ### Admin Dashboard
-![Screenshot 2023-08-25 at 14 16 41_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/50d981f5-7959-4283-95b5-73b41f3acc0a)
+![Screenshot 2023-08-25 at 14 16 41_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/29f34a58-3b17-4726-889b-b33f8d8fb76f)
 
 
 ### Employees List
-![Screenshot 2023-08-25 at 14 16 54_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/9d3d9c03-2ab8-41c7-92a5-99a1911472c0)
+![Screenshot 2023-08-25 at 14 16 54_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/72c7c4e0-54ce-44ef-9049-2ec3317fca6b)
 
 
 ### Users List
-![Screenshot 2023-08-25 at 14 40 18_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/f12ff5bd-7a29-406d-ba2c-beb235a9abc4)
+![Screenshot 2023-08-25 at 14 40 18_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/b053dd6c-2266-43ab-99f2-74dfe76cd3ea)
 
 
 ### New Newsletter Page
-![Screenshot 2023-08-25 at 14 17 28_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/09dfc4d9-764f-4df0-8235-cead791cd55e)
+![Screenshot 2023-08-25 at 14 17 28_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/3f2f4756-39d3-4955-82a4-155339426a92)
 
 
 ### Newsletter Edit Page
-![Screenshot 2023-08-25 at 14 17 42_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/5141ed1e-b9f8-4191-8a29-f8d1f197d725)
+![Screenshot 2023-08-25 at 14 17 42_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/9167f439-f839-49a4-a47a-4a13ae7530e1)
 
 
 ### Employee Edit Drawer
-![Screenshot 2023-08-25 at 14 17 07_macbookgrey_front](https://github.com/jsarticles-dev/jsad-frontend/assets/20026295/02abde9c-48f8-42e9-a98d-96f340406933)
+![Screenshot 2023-08-25 at 14 17 07_macbookgrey_front](https://github.com/ErtanOzdemir/jsad-frontend/assets/20026295/2b12b04d-91dd-4199-bdf5-6965da1ee13a)
 
 
 ## License
